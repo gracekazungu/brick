@@ -1,0 +1,81 @@
+.container ul li{
+    display: inline-flex;
+    margin-left: 60px;
+    text-align: center;
+    text-decoration: none;
+    justify-content: space-between;}
+    .container{text-align: center;}
+    #image22{width: 60px;}
+    .brick{display: flex;margin: 20px;border-style: solid;background-color: yellow;border-color: yellow;}
+    #catalog{background-color: gray;border-radius: 20px;padding: 10px;margin: 20px;}
+    #input{border-radius: 10px;background-color: white;margin: 20px;}
+    #heart{font-size: 40px;margin: 10px;}
+    #cart{font-size: 40px;margin: 10px;}
+    #user{font-size: 40px;float: right;margin: 10px;}
+    #new{border-radius: 10px;background-color: yellow;border-color: yellow;margin-top: -25%;margin-top: 30%;}
+    #img{width: 600px;margin: 20px;}
+    .img{position: relative;}
+    .content{display: flex;}
+    #series{background-color: white;padding: 10px;border-color: gray;width: 200px;}
+    #select{background-color: yellow;padding: 10px;width: 200px;}
+    .constructor{float: right;border-style: solid;margin: 30px;border-color: gainsboro;width: 400px;height: 400px;text-align: center;border-radius: 20px;}
+    #dagoja{width: 200px;margin-right: 20px;margin: 20px;}
+    #download{width: 200px; margin: 30px;}
+    .lord{margin-left: -69%;}
+    .wars{display: flex;}
+    #down{width: 200px;margin: 30px;}
+    #img23{width: 150px;margin: 30px;}
+    .imag{display: flex;}
+    #img25{width: 200px;margin: 30px;}
+    #img26{width: 200px;margin: 30px;}
+    #img27{width: 200px;margin: 30px;}
+    #img28{width: 200px;margin: 30px;}
+    .serie{display: flex;}
+    #h2{text-align: center;}
+    #avator{width: 250px;margin: 20px;}
+    #creator{width: 250px;margin: 20px;}
+    #starwars{width: 250px;margin: 20px;}
+    #marvel{width: 250px;margin: 20px;}
+    #ideas{width: 350px;margin: 20px;}
+    .src{display: flex;}
+    .alt{display: flex;}
+    #happy{width: 350px;margin: 20px;}
+    #ninjago{width: 350px;margin: 20px;}
+    #mini{width: 250px;margin: 20px;}
+    #classic{width: 250px;margin: 20px;}
+    #city{width: 240px;margin: 20px;}
+    #dc{width: 250px;margin: 20px;}
+    .position{display: flex;}
+    #duplo{width: 250px;margin: 20px;}
+    #light{width: 350px;margin: 20px;}
+    #disnep{width: 250px;margin: 20px;}
+    .discounts{text-align: center;}
+    #more{background-color: yellow;width: 200px;border-radius: 20px;padding: 10px;text-align: center;}
+    .cohort{display: flex;}
+    #down7{width: 300px;margin: 25px;}
+    #img29{width: 300px;margin: 25px;}
+    #img30{width: 300px;margin: 25px;}
+    .icons{font-size: 60px;text-align: center;}
+    .place{background-color: yellow;border-style: solid;border-color: yellow;margin: 30px;display: flex;}
+    #holder{width: 200px;margin: 30px;border-radius: 20px;padding: 20px;}
+    .company{display: flex;background-color: black;color: white;border-style: solid;margin: 20px;}
+    #shops{margin: 20px;}
+    #help{margin: 20px;}
+    #contacts{margin: 20px;}
+    #social{margin: 20px;;}
+    #true{float: right;}
+    #img22{width: 100px;margin: 40px;}
+    .privacy{display: flex;background-color: black;color: aliceblue;margin: 20px;}
+    #copyright{margin: 40px;}
+    #policy{margin: 40px;}
+    #cookies{margin: 40px;}
+    .New{text-align: center;}
+    .viewed{text-align: center;}
+
+    
+
+
+
+
+
+    
