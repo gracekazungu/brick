@@ -1,0 +1,72 @@
+.container ul li{
+    display: inline-flex;
+    margin-left: 60px;
+    text-align: center;
+    text-decoration: none;
+    justify-content: space-between;}
+    .container{text-align: center;}
+    #flag{width: 30px;float: right;margin-left: -30%;}
+    #image22{width: 80px;}
+    .true{margin-left: 30%;}
+    .brick{display: flex;margin: 20px;border-style: solid;background-color: #FFD600;border-color: #FFD600;}
+    #catalog{background-color: gray;border-radius: 20px;padding: 10px;margin: 20px;}
+    #input{border-radius: 5px;background-color: white;margin: 20px;height: 40px;width: 200px;}
+    #heart{font-size: 40px;margin: 10px;}
+    #cart{font-size: 40px;margin: 10px;}
+    #user{font-size: 40px;float: right;margin: 10px;}
+
+.image{display: grid;gap: 1%;}
+#img31{width: 15%;}
+#img7{width: 15%;}
+#img2{width: 15%;}
+
+.words{display: grid;margin-left: 20%;margin-top: -45%;}
+.word{display: flex;gap: 1%;}
+.word2{display: flex;gap: 1%;}
+.word3{display: flex;gap: 1%;}
+#word4{margin-top: 10%;}
+#word5{margin-top: 13%;}
+
+.words2{display: grid;margin-bottom: 5%;margin-left: 50%;margin-top: -39%;}
+#p1{color: grey;}
+#p2{color: grey;}
+#p3{color: grey;}
+#word6{margin-top: 20%;}
+#word7{margin-top: 25%;}
+
+
+.words3{display: grid;border-style: solid;border-color: gray;width: 150px;border-radius: 10px;margin-left: 60%;margin-top: -45%;}
+.word8{display: flex;gap: 4%;}
+#butn{border-color: green;color: green;width: 150px;border-radius: 5px;}
+#butn2{border-color: #FFD600;background-color: #FFD600;width: 150px;border-radius: 5px;}
+
+#h1{text-align: center;margin-top: 30%;}
+.images5{display: flex;margin-top: 5%;}
+#down2{width: 40%;gap: 2%;}
+#down3{width: 40%;gap: 2%;}
+#down{width: 50%;gap: 2%;}
+#down5{width: 40%;gap: 2%;}
+
+    .company{display: flex;background-color: #26004C;color: white;border-style: solid;margin: 20px;}
+    .shops{padding: 40px;}
+    .help{padding: 40px;}
+    .contacts{padding: 40px;}
+    .social{padding: 40px;}
+    .true{float: right;}
+    #img22{width: 100px;margin: 40px;margin-top: -0%;}
+    .privacy{display: flex;background-color: #26004C;color: aliceblue;margin: 23px;margin-top: -3%;}
+    #copyright{margin: 40px;}
+    #policy{margin: 40px;}
+    #cookies{margin: 40px;}
+    #brickhouse{margin-top: 3%;}
+
+
+
+    @media screen and(max-width:840px) {
+    .brick{
+        display: block;
+        width: 100px;
+    }
+      }
+        
+    
