@@ -1,0 +1,68 @@
+.header{background-color: #FFD600;display: flex;}
+#image{width: 50px;}
+#par{margin-left: 40%;}
+#par2{margin-left: 2%;}
+
+#label1{margin-left: 15%;margin-top: -3%;}
+#gmail{margin-left: 15%;margin-top: -3%;}
+.order{border-style: solid;border-color: gray;border-radius: 10px;margin-left: 40%;width: 250px;margin-top: -10%;}
+#butn1{border-color: green;color: green;text-align: center;border-radius: 5px;width: 200px;}
+#butn2{border-color: gray;width: 200px;border-radius: 5px;}
+#butn3{background-color: #FFD600;text-align: center;width: 200px;border-radius: 5px;}
+#p1{margin-left: 50%;margin-top: -13%;}
+
+.stores{display: flex;}
+h3{margin-left: 2%;margin-bottom: 2%;}
+#button{background-color: #E70062;border-radius: 10px;width: 40px;height: 40px;margin-left: 2%;}
+#par5{margin-left: 20%;color: #E70062;}
+
+.nova{display: flex;}
+h3{margin-left: 2%;margin-bottom: 2%;}
+#button2{background-color: #E70062;border-radius: 10px;width: 40px;height: 40px;margin-left: 2%;}
+#par6{margin-left: 5%;}
+#par7{margin-left: 7%;color: green;}
+
+.delivery{display: flex;}
+h3{margin-left: 2%;margin-bottom: 2%;}
+#button3{background-color: #FFD600;border-radius: 10px;width: 40px;height: 40px;margin-left: 2%;}
+#par8{margin-left: 7%;}
+#par9{margin-left: 7%;color: green;}
+
+.method{display: flex;}
+#butn4{background-color: #FFD600;border-radius: 10px;width: 40px;height: 40px;margin-left: 2%;}
+#hd3{margin-bottom: 2%;}
+#par10{margin-left: 30%;}
+
+.pay{display: flex;}
+#butn5{background-color: gainsboro;border-radius: 10px;width: 40px;height: 40px;margin-left: 2%;}
+#hd4{margin-bottom: 2%;}
+#par11{margin-left: 26%;}
+
+.apple{display: flex;}
+#butn6{background-color: gainsboro;border-radius: 10px;width: 40px;height: 40px;margin-left: 2%;}
+#hd5{margin-bottom: 2%;}
+#par12{margin-left: 27%;}
+
+#par13{text-align: center;}
+
+@media (max-width:1024px){
+    .header{display: grid;}
+    #par{
+        margin-left: -0%;
+    }
+    #label1{
+        margin-left: -0%;
+        margin-top: 3%;
+    }
+    #gmail{
+        margin-left: -0%;
+        margin-top: 3%;
+    }
+    .order{
+        margin-top: 4%;
+        margin-left: -1%;
+    }
+    #par5{margin-right: 6%;}
+    /* #par6{margin-right:-5%;}
+#par7{margin-left: -4% ;} */
+}
