@@ -5,6 +5,8 @@
 
 #label1{margin-left: 15%;margin-top: -3%;}
 #gmail{margin-left: 15%;margin-top: -3%;}
+
+
 .order{border-style: solid;border-color: gray;border-radius: 10px;margin-left: 40%;width: 250px;margin-top: -10%;}
 #butn1{border-color: green;color: green;text-align: center;border-radius: 5px;width: 200px;}
 #butn2{border-color: gray;width: 200px;border-radius: 5px;}
@@ -14,7 +16,7 @@
 .stores{display: flex;}
 h3{margin-left: 2%;margin-bottom: 2%;}
 #button{background-color: #E70062;border-radius: 10px;width: 40px;height: 40px;margin-left: 2%;}
-#par5{margin-left: 20%;color: #E70062;}
+#par5{margin-left: 20%;color: #E70062;text-decoration: underline;}
 
 .nova{display: flex;}
 h3{margin-left: 2%;margin-bottom: 2%;}
@@ -45,7 +47,7 @@ h3{margin-left: 2%;margin-bottom: 2%;}
 
 #par13{text-align: center;}
 
-@media (max-width:1024px){
+@media (max-width:840px){
     .header{display: grid;}
     #par{
         margin-left: -0%;
@@ -65,4 +67,22 @@ h3{margin-left: 2%;margin-bottom: 2%;}
     #par5{margin-right: 6%;}
     /* #par6{margin-right:-5%;}
 #par7{margin-left: -4% ;} */
+}
+@media(min-width: 841px),(max-width:1024){
+    #label1{
+        margin-left: 20%;
+        margin-top: -1.7%;
+        
+    }
+    #gmail{
+        margin-left: 20%;
+        margin-top: -2.7%;
+        
+    }
+    #label2{
+        margin-bottom:px;
+    }
+
+.order{margin-left: 45%;}
+
 }
